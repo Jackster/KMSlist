@@ -24,6 +24,7 @@ You can visit the site here, [kmslist.ddns.net](https://kmslist.ddns.net/).
 - Add a ping feature so users can sort hosts based on the network latency between them and the KMS host.
 - Check which KMS versions the server responds to.
 - Add some debug info to the server checker and host list.
+- Remove dead hosts after X days, or at least delist them from the website and check once a day to see if they are alive again.
 
 ## How to contact me
 If you have anything to ask or suggest, please [raise an issue on this Git.](https://github.com/Jackster/KMSlist/issues/new)
